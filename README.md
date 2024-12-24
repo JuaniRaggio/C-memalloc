@@ -38,9 +38,9 @@
     - [x] randInt
     - [x] randReal
     - [x] randomize
+    - [x] srand: Seeds the pseudo-random number generator.
 - [ ] To implement:
     - [ ] rand: Generates a pseudo-random number.
-    - [ ] srand: Seeds the pseudo-random number generator.
 
 ## Process control
 ---
