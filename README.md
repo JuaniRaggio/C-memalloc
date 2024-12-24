@@ -1,8 +1,11 @@
 # Usefull memory allocation functions for C
 ---
+
 ##### Disclaimer
 > This implementation is recreational and except a few functions, most of them shouldn't be used in
 > production
+
+#### Every function is correctly described in their respective .h file
 ## Memory Management
 ---
 - [x] Implemented:
@@ -30,6 +33,11 @@
 
 ## Random number generator
 ---
+- [x] Implemented:
+    - [x] randNormalize
+    - [x] randInt
+    - [x] randReal
+    - [x] randomize
 - [ ] To implement:
     - [ ] rand: Generates a pseudo-random number.
     - [ ] srand: Seeds the pseudo-random number generator.
