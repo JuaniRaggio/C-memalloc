@@ -3,7 +3,7 @@
 
 ## Memory Management
 ---
-- [ ] Implemented:
+- [x] Implemented:
     - reCalloc
 
 - To implement:
