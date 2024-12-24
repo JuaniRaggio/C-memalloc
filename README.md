@@ -42,6 +42,7 @@
 
 ## Integer aritmetic
 ---
+- [ ] To implement:
     - [ ] abs: Returns the absolute value of an integer.
     - [ ] labs: Returns the absolute value of a long.
     - [ ] llabs: Returns the absolute value of a long long.
@@ -51,6 +52,7 @@
 
 ## Multibyte character functions
 ---
+- [ ] To implement:
     - [ ] mblen: Returns the length of a multibyte character.
     - [ ] mbtowc: Converts a multibyte character to a wide character.
     - [ ] wctomb: Converts a wide character to a multibyte character.
