@@ -1,5 +1,6 @@
 # Usefull memory allocation functions for C
 ---
+##### Disclaimer
 > This implementation is recreational and except a few functions, most of them shouldn't be used in
 > production
 ## Memory Management
