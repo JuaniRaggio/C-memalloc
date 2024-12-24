@@ -2,6 +2,12 @@
 #define __RAND_H__
 #include <stdio.h>
 
+#define RAND_MAX 32767
+
+// Sets a custom seed value
+void srand(unsigned int seed);
+
+// Returns a psudorandom number between 0
 double rand(void);
 
 // Returns a psudorandom number between 0 and RAND_MAX

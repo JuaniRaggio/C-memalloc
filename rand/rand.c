@@ -1,7 +1,15 @@
 #include <time.h>
 #include "rand.h"
 
-double rand() {
+// Default seed value
+static unsigned long customizableSeed = 1;
+
+void srand(unsigned int seed) {
+    customizableSeed = seed;
+}
+
+double rand(void) {
+    // TBD: Alorithm used: either linear congruential generator or research better options
     return 0;
 }
 
