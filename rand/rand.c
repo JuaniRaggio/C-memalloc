@@ -2,9 +2,9 @@
 #include "rand.h"
 
 // Default seed value
-static unsigned long customizableSeed = 1;
+static size_t customizableSeed = 1;
 
-void srand(unsigned int seed) {
+void srand(size_t seed) {
     customizableSeed = seed;
 }
 
