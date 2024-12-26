@@ -1,4 +1,4 @@
-# Usefull memory allocation functions for C
+# The C standard library improved
 ---
 
 ##### Disclaimer
